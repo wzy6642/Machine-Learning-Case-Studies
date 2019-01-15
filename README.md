@@ -1,5 +1,5 @@
 # Machine-Learning-Case
-## trip
+### trip
 本项目是数据的EDA探索，针对自行车共享数据集`2015_trip_data`进行探索性数据分析。这个数据集的特征如下表所示：
 
 特征名称  | 说明|
